@@ -1,0 +1,5 @@
+#!/bin/sh
+
+CMDDESC="Generate permissions"
+
+chmod 777 ./scripts/losh ./scripts/generate-gitbook ./scripts/deploy-gitbook

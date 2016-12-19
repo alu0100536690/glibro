@@ -1,0 +1,5 @@
+#!/bin/sh
+
+CMDDESC="Generate permissions"
+
+chmod -R 777 ../scripts
